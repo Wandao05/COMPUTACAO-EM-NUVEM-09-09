@@ -1,0 +1,7 @@
+root@ubuntu:~$ ^C
+root@ubuntu:~$ echo "<p>Aluno: Wanderley</p>" >> index.html
+root@ubuntu:~$ echo "<p>Aula3 - Modelos de implatacao</p>" >> index.html
+root@ubuntu:~$ python3 -m http.server 8080
+Serving HTTP on 0.0.0.0 port 8080 (http://0.0.0.0:8080/) ...
+curl localhost:8080                
+
