@@ -1,0 +1,12 @@
+root@ubuntu:~$ hostname
+ubuntu
+root@ubuntu:~$ hostname -i
+127.0.0.1
+root@ubuntu:~$ 
+
+Perguntas: 
+1-O hostname do servidor é **ubuntu**.
+2-O endereço IP que apareceu é **127.0.0.1**.
+3-O arquivo `index.html` está em **/var/www/html/index.html**.
+4-O servidor HTTP está executando no próprio computador, através do endereço **127.0.0.1 (localhost)**.
+5-**Sim**, foi necessário instalar um servidor web caso ele não estivesse instalado anteriormente.
