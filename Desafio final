@@ -1,0 +1,26 @@
+                         UNIVERSIDADE
+                              │
+                    ┌─────────┴─────────┐
+                    │                   │
+              ☁️ NUVEM PÚBLICA     ☁️ NUVEM PRIVADA
+                    │                   │
+          ┌─────────┼─────────┐    ┌────┼──────────────┐
+          │         │         │    │    │              │
+       Portal    Ambiente   Biblioteca  Sistema     Dados
+    institucional  do aluno  digital   financeiro  pessoais
+                                           │
+                                  Sistema dos professores
+
+O portal institucional seria colocado na nuvem pública porque é um sistema que pode ser acessado por muitas pessoas, como alunos, professores, funcionários e visitantes. A nuvem pública permite suportar uma grande quantidade de acessos e aumentar os recursos conforme a demanda.
+
+O ambiente do aluno também seria colocado na nuvem pública, pois pode receber muitos acessos simultâneos, principalmente em períodos de matrícula, divulgação de notas e realização de atividades. Dessa forma, a nuvem pública oferece maior flexibilidade e capacidade de atender aos períodos de maior utilização.
+
+O sistema financeiro seria colocado na nuvem privada porque trabalha com informações financeiras e operações que precisam de maior controle de acesso e segurança. A nuvem privada permite que a universidade tenha maior controle sobre quem pode acessar essas informações.
+
+Os dados pessoais dos estudantes** ficariam na nuvem privada por serem informações sensíveis e que precisam de proteção. Dessa maneira, a universidade consegue aplicar políticas de segurança e controlar melhor o acesso aos dados.
+
+A biblioteca digital seria colocada na nuvem pública porque pode ser utilizada por muitos alunos e professores ao mesmo tempo. A nuvem pública permite aumentar os recursos disponíveis conforme a quantidade de usuários, facilitando o acesso aos livros, artigos e outros materiais digitais.
+
+O sistema interno dos professores seria colocado na nuvem privada porque é um sistema de acesso restrito, utilizado principalmente por professores e funcionários. Por conter informações internas da universidade, é importante ter maior controle sobre os usuários e sobre os dados armazenados.
+
+Assim, a universidade utilizaria uma arquitetura híbrida, combinando a nuvem pública e a nuvem privada. A nuvem pública atenderia aos sistemas que precisam de maior acessibilidade e capacidade de atender muitos usuários, enquanto a nuvem privada seria utilizada para sistemas e informações que exigem maior segurança, privacidade e controle de acesso.
